@@ -5,6 +5,4 @@ __pycache__/
 .vscode/
 dataset/raw/
 dataset/processed/
-models/*.pkl
-models/*.joblib
 .ipynb_checkpoints/
